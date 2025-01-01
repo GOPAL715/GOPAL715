@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learn codingcombined
 - 📫 How to reach me cloud.gopalg@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a fast learner
+
 
 <!---
 GOPAL715/GOPAL715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
