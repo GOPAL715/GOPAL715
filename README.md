@@ -57,28 +57,4 @@ I'm an M.Tech Computer Science graduate and Software Developer Intern with hands
 - Applied data preprocessing, outlier handling, normalization, and feature selection.
 - Evaluated and optimized models to improve prediction performance.
 
-## 🎓 Education
-
-**Master of Technology (M.Tech)**  
-Computer Science and Engineering — Gandhi Institute of Technology and Management (GITAM)  
-GPA: 8.1 | April 2024
-
-**Bachelor of Technology (B.Tech)**  
-Food Technology — Dr. NTR College of Food Science and Technology  
-GPA: 7.0 | August 2022
-
-## 📜 Certifications
-
-- Cognizant Agile Methodology
-- Introduction to Programming — Kaggle
-- Data Structures — Coursera
-
-## 📫 Connect With Me
-
-- **Email:** [gopalgudipati8@gmail.com](mailto:gopalgudipati8@gmail.com)
-- **GitHub:** [@GOPAL715](https://github.com/GOPAL715)
-- **LinkedIn:** [Venkata Gudipati](https://www.linkedin.com/in/venkata-gudipati/)
-
----
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
